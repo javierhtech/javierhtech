@@ -8,7 +8,7 @@
   - [Linux CentOS Server: Setup, Config, and Administration](https://github.com/javierhtech/)
  
 <h2> Software Dev projects:</h2>
-- <b></b>
+- <b> Solidity Dapp (https://github.com/javierhtech/myFirstDapp)</b>
   
 <h2> 🤳 Connect with me:</h2>
 
