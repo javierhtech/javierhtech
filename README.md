@@ -6,9 +6,6 @@
   - [Virtual Box, Windows Server 22 Active Directory](https://github.com/javierhtech/)
 - <b>Linux Server Setup and Administration</b>
   - [Linux CentOS Server: Setup, Config, and Administration](https://github.com/javierhtech/)
- 
-<h2> Software Dev projects:</h2>
-- <b> Solidity Dapp (https://github.com/javierhtech/myFirstDapp)</b>
   
 <h2> 🤳 Connect with me:</h2>
 
