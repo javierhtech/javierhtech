@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Windows Active Directory Lab</b>
-  - [Virtual Box, Windows Server 22 Active Directory](https://github.com/javierhtech/)
+  - [Setting Up Active Directory Server to Add Target Machine to Domain Controller](https://github.com/javierhtech/)
 - <b>Linux Server Setup and Administration</b>
   - [Linux CentOS Server: Setup, Config, and Administration](https://github.com/javierhtech/)
   
