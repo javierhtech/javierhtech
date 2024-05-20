@@ -64,7 +64,7 @@ My journey in the Web 3 space has led me to develop a passion for cybersecurity,
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-## Projects
 
+## Projects
 - Windows Domain
 - Active Directory Management
