@@ -3,14 +3,14 @@
 
 I am a technology enthusiast with a profound interest in blockchain, cybersecurity, and web application development. With a solid foundation in IT support and a deep curiosity for the intricacies of digital security, I am dedicated to learning new ways to innovate and finding best practices to defend against cyber threats. My goal is to leverage my skills and passion to make significant contributions to the cybersecurity field.
 
-## Objective
-
-My journey in the Web 3 space has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to gain experience and eventually join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
 - Windows
+- Linux
 - VirtualBox
+- System Administration
+- Identity Access Management
 - Network Management
 - Active Directory
 - Incident Response Planning and Execution
