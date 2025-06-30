@@ -1,7 +1,7 @@
 # Hello, I'm Javier Hernandez
 <a href="https://linkedin.com/in/javierhernandezdev"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a technology enthusiast with a profound interest in blockchain, cybersecurity, and web application development. With a solid foundation in IT support and a deep curiosity for the intricacies of digital security, I am dedicated to learning new ways to innovate and finding best practices to defend against cyber threats. My goal is to leverage my skills and passion to make significant contributions to the cybersecurity field.
+I am a technology enthusiast with a profound interest in blockchain and Cybersecurity.
 
 
 ## Skills
