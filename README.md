@@ -1,70 +1,116 @@
 # Hello, I'm Javier Hernandez
-<a href="https://linkedin.com/in/javierhernandezdev"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/javierhernandezdev">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-I am a technology enthusiast with a profound interest in blockchain and Cybersecurity.
+## Cloud Security Engineer | Blockchain Engineer (Solidity)
 
+Security-focused infrastructure engineer with hands-on experience designing containerized environments and access-controlled systems.
 
-## Skills
+I build secure cloud-native infrastructure and smart contracts with a security-first mindset — focused on production-aligned systems rather than tutorial projects.
 
-- Windows
-- Linux
-- VirtualBox
-- System Administration
-- Identity Access Management
-- Network Management
-- Active Directory
-- Incident Response Planning and Execution
-- Scripting and Automation for Threat Mitigation
+Pinned repositories demonstrate real-world infrastructure patterns, security controls, and modern engineering workflows.
 
-## Tools
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+## Current Engineering Focus
 
-<!--
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Cloud Native Security
+- Production-style secure Kubernetes deployments (local K3s/kind)
+- Infrastructure as Code with Terraform
+- Containerized workloads using Docker
+- RBAC and least-privilege access design
+- Secrets management and network policies
+- Observability and workload isolation
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
--->
+### Blockchain Engineering
+- Solidity smart contract development
+- Foundry-based testing (unit, fuzz, invariants)
+- Smart contract exploit labs (vulnerable → exploit → patch)
+- Security-first protocol architecture
 
-### Help Desk & Tech Support
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Office-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zendesk-03363D?&style=for-the-badge&logo=Zendesk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
-</div>
+---
 
-### System Administration
-<div>
-    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-</div>
+## Featured Projects
 
-### SOC
-<div>
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+### Secure Kubernetes Deployment (Terraform + Docker)
+Production-style secure Kubernetes platform built with Docker and Terraform, implementing hardened configurations and least-privilege access controls.
+
+**Key Engineering Signals**
+- Dockerized workloads  
+- Kubernetes deployments and services  
+- Role-Based Access Control (RBAC)  
+- Secrets management  
+- Network policies  
+- Infrastructure as Code provisioning  
+
+→ Repo: Currently under active development
+
+---
+
+### Jira AWS Automation (Lambda)
+Serverless workflow automating Jira ticket creation and updates using AWS Lambda and API integrations.
+
+**Stack:** AWS • Lambda • API Gateway • Python
+
+→ https://github.com/javierhtech/JiraAWS-Project
+
+---
+
+### Smart Contract Security Labs
+Security-driven Solidity projects demonstrating exploit discovery, remediation, and test validation.
+
+Focus areas:
+- Reentrancy  
+- Access control vulnerabilities  
+- Oracle manipulation  
+- MEV attack surfaces  
+
+→ Repo: Currently under active development
+
+---
+
+### Foundry Testing Environment
+Reusable smart contract testing harness supporting unit tests, fuzzing, and invariant validation.
+
+→ Repo: Currently under active development
+
+---
+
+## Core Technologies
+
+**Cloud / Infrastructure**  
+AWS • Terraform • Docker • Kubernetes • Linux  
+
+**Security**  
+IAM • RBAC • Network Policies • Secrets Management • Zero Trust  
+
+**Blockchain**  
+Solidity • Foundry • Smart Contract Security • EVM  
+
+**Languages**  
+Solidity • Python • Bash  
+
+---
+
+## Engineering Principles
+- Security-first design  
+- Least privilege by default  
+- Infrastructure as Code  
+- Test everything  
+- Automate wherever possible  
+
+---
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+Security+ | Network+ | Linux+  
+Microsoft SC-300 | Okta Certified Professional  
 
-## Projects
-- Windows Domain
-- Active Directory Management
+---
+
+## Contact
+LinkedIn: https://linkedin.com/in/javierhernandezdev  
+
+---
+
+Currently shipping new infrastructure and security projects weekly.
